@@ -1,4 +1,4 @@
-# 🧪 Task 1 – 3D Trajectory Simulation with Restitution
+# 🧪 3D Trajectory Simulation with Restitution
 
 This Unity project simulates a bouncing sphere using vector mathematics without relying on Unity’s built-in physics engine. It demonstrates projectile motion under gravity with restitution.
 
